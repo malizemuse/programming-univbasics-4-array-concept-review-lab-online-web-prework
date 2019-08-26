@@ -1,5 +1,7 @@
 def find_element_index(array, value_to_find)
 
+  index = 0 
+  
   array.length.times do
   
     if array[index] == value_to_find 
