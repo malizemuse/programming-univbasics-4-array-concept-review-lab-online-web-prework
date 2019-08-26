@@ -27,5 +27,5 @@ end
 
 array = [0,1,2,3]
 
-find_element_index(array, 2)
+puts find_element_index(array, 2)
 
